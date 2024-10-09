@@ -1,0 +1,6 @@
+spring.application.name=ems-backend
+spring.datasource.url=jdbc:postgresql://your_db_host:your_db_port/ems
+spring.datasource.username=your_db_user_name
+spring.datasource.password=your_db_user_password
+
+spring.jpa.hibernate.ddl-auto=update
